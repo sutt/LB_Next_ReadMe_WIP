@@ -23,7 +23,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="lb_bw_initals_typography_vaporwave.png" alt="Logo" width="450" height="450">
   </a>
 
   <h3 align="center">Welcome to</h3>
@@ -111,6 +111,43 @@ Fix branta logo
 
 <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Gmail Badge">
 <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=plastic" alt="Gmail Badge">
+
+## Getting Started
+ 
+### Installation
+
+Below is an example of how you can instruct your audience on installing and setting up your app. 
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/Lightning-Bounties/lb-next
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Env Vars: <em> edit as needed </em>
+   ```sh
+   cp .env.local.example .env.local
+   ```
+4. Config Files: <em> edit as needed </em>
+   ```js
+   tsconfig.json
+   ```  
+5. Run Dev Server
+   ```sh
+   npm run dev
+   ```
+6.  Grab a JWT token from the production backend and add it to your local storage under the dev server domain.
+    - see documents for instructions and video [here](https://docs.lightningbounties.com/docs/solve-a-bounty/working-on-opensource-frontend-lb-next).
+      
+7.  Change git remote url to avoid accidental pushes to base project
+   ```sh
+   git remote set-url origin github_username/repo_name
+   git remote -v # confirm the changes
+   ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
