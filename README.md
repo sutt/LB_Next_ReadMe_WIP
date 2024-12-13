@@ -1,3 +1,8 @@
+![github_banner_simple](https://github.com/user-attachments/assets/8cb02964-89ca-48ee-a8b6-2a7a843ed453)
+
+
+
+
 - [ ] Banner Image or Logo
 - [ ] 1 Paragraph Charter on what we are all about 
 - [ ] Links or Badges to Socials: Twitter, Documentation, Website, Blog, YouTube?
@@ -42,8 +47,7 @@
   </p>
 </div>
 
-
-![github_banner_simple](https://github.com/user-attachments/assets/e6d512f1-a00a-41c0-8891-0f1401809055)
+![github_banner_simple](https://github.com/user-attachments/assets/8cb02964-89ca-48ee-a8b6-2a7a843ed453)
 
 <!-- TABLE OF CONTENTS -->
 <details>
