@@ -2,16 +2,6 @@
 
 ![github_banner_simple](https://github.com/user-attachments/assets/8cb02964-89ca-48ee-a8b6-2a7a843ed453)
 
-<div align="center">
-
-<h2><span> Special Thanks </span></h2>      
-
-| <h3><a href="https://branta.pro">Branta</a></h3> | <h3><a href="https://www.gitbook.com">GitBook</a></h3> | <h3><a href="https://www.pleblab.dev/">PlebLab</h3> |
-|:-------:|:-------:|:--------------------:|
-| ![Branta Logo](https://pbs.twimg.com/profile_images/1730013699824332800/ZaGLT3-T_200x200.jpg) | ![Gitbook Logo](https://pbs.twimg.com/profile_images/1730174148289138688/F8UigNVy_200x200.jpg) | ![PlebLab Logo](https://avatars.githubusercontent.com/u/112909654?s=200&v=4) |
-| <p align="center" width="240">Branta offers payment verification <br>for various bitcoin and lightning technologies.</p> | <p align="center" width="240">GitBook: Documentation platform<br>for teams to share knowledge</p> | <p align="center" width="240">PlebLab is founder-led and founder-focused, <br>providing resources and mentorship to drive<br>impactful Bitcoin companies since 2021.</p> |
-
-</div>
 
 <details> <summary>Project Checklist</summary>
   
@@ -254,6 +244,18 @@ Below is an example of how you can instruct your audience on installing and sett
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<div align="center">
+
+<h2><span> Special Thanks </span></h2>      
+<div align="center">
+
+| <h3><a href="https://branta.pro">Branta</a></h3> | <h3><a href="https://www.gitbook.com">GitBook</a></h3> | <h3><a href="https://www.pleblab.dev/">PlebLab</h3> |
+|:-------:|:-------:|:--------------------:|
+| ![Branta Logo](https://pbs.twimg.com/profile_images/1730013699824332800/ZaGLT3-T_200x200.jpg) | ![Gitbook Logo](https://pbs.twimg.com/profile_images/1730174148289138688/F8UigNVy_200x200.jpg) | ![PlebLab Logo](https://avatars.githubusercontent.com/u/112909654?s=200&v=4) |
+| <p align="center" width="240">Branta offers payment verification <br>for various bitcoin and lightning technologies.</p> | <p align="center" width="240">GitBook: Documentation platform<br>for teams to share knowledge</p> | <p align="center" width="240">PlebLab is founder-led and founder-focused, <br>providing resources and mentorship to drive<br>impactful Bitcoin companies since 2021.</p> |
+
+</div>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 # Other Assets Delete Later 
