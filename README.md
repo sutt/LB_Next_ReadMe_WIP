@@ -56,7 +56,7 @@
 
 <div align="center">
   <h1>Welcome to</h1>
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/Lightning-Bounties">
     <img src="lb_bw_initals_typography_vaporwave.png" alt="Logo" width="400" height="350">
   </a>
     <details> <summary>About</summary>
@@ -89,6 +89,23 @@
 - **Learn**: Dive deep into Open-Source, Bitcoin, & Lightning Network technologies and uncover the future of money and decentralized tech.
 - **Accelerate Bug Fixes**: Collaborate with talented security researchers to speed up bug fixes, saving newbie coders valuable time.
 - **Join the Community**: Become part of the vibrant Open-Source Movement and build the future you want to see.
+</div>
+</details>
+
+<details>
+<summary>Repositories</summary>
+<div align="start">
+  <h2> Repositories:  </h2>
+  
+- Front-End: [Lightning-Bounties/lb-next](https://github.com/Lightning-Bounties/lb-next)
+  - bounties available in issues
+- Docs (a gitbook app): [Lightning-Bounties/docs](https://github.com/Lightning-Bounties/docs)
+  - bounties available in issues 
+- Blog (a gitbook app): [Lightning-Bounties/our-blog](https://github.com/Lightning-Bounties/our-blog)
+- Dev RoadMap: [Project/v1-v3](https://github.com/orgs/Lightning-Bounties/projects/2)
+  - RoadMap links to product-level tickets in this repo: [Lightning-Bounties/progress-tracker](https://github.com/Lightning-Bounties/progress-tracker)
+- Back-End: currently set to private
+  - to mock it for development, see instructions [here](https://docs.lightningbounties.com/docs/solve-a-bounty/working-on-opensource-frontend-lb-next)
 </div>
 </details>
 
@@ -132,13 +149,15 @@ Connect with us and stay up-to-date. Engage through direct communication, code e
 
 
   <p>
-    <a href="https://docs.lightningbounties.com"><strong>Explore the docs »</strong></a>
+    <a href="https://docs.lightningbounties.com"><strong>Explore the docs » </strong></a>
+  </>  ⚡
+    <a href="https://blog.lightningbounties.com/"><strong>Read Our Blog » </strong></a>
   </p>
   <p>
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://docs.lightningbounties.com/docs/getting-started/getting-started">View Demo</a> »
+    <a href="https://github.com/Lightning-Bounties/lb-next/issues">Report Bug</a> »
+    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a> »
+    <a href="https://github.com/orgs/Lightning-Bounties/projects/2/views/1">Roadmap</a>
   </p>
 </div>
 
