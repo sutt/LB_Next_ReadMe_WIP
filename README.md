@@ -56,7 +56,7 @@
 
 <div align="center">
   <h1>Welcome to</h1>
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/Lightning-Bounties">
     <img src="lb_bw_initals_typography_vaporwave.png" alt="Logo" width="400" height="350">
   </a>
     <details> <summary>About</summary>
@@ -92,12 +92,25 @@
 </div>
 </details>
 
+<details>
+<summary>Repositories</summary>
+<div align="start">
+  <h2> Repositories:  </h2>
+  
+- Front-End: [Lightning-Bounties/lb-next](https://github.com/Lightning-Bounties/lb-next)
+  - bounties available in issues
+- Docs (a gitbook app): [Lightning-Bounties/docs](https://github.com/Lightning-Bounties/docs)
+  - bounties available in issues 
+- Blog (a gitbook app): [Lightning-Bounties/our-blog](https://github.com/Lightning-Bounties/our-blog)
+- Dev RoadMap: [Project/v1-v3](https://github.com/orgs/Lightning-Bounties/projects/2)
+  - RoadMap links to product-level tickets in this repo: [Lightning-Bounties/progress-tracker](https://github.com/Lightning-Bounties/progress-tracker)
+- Back-End: currently set to private
+  - to mock it for development, see instructions [here](https://docs.lightningbounties.com/docs/solve-a-bounty/working-on-opensource-frontend-lb-next)
+</div>
+</details>
+
   <details> <summary>Follow Us</summary>
     <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; border: 2px solid #4285f4; padding: 20px; border-radius: 10px;">
-
-  <a href="mailto:founders@lightningbounties.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo" />
-  </a>
   <a href="https://https://x.com/LBounties" target="_blank">
     <img src="https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge" height="35" alt="X Badge">
   </a> 
@@ -107,38 +120,40 @@
    <a href="https://www.youtube.com/@LightningBounties" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge" height="35" alt="YouTube Badge">
   </a>
-  
   <a href="https://blog.lightningbounties.com" target="_blank">
     <img src="https://img.shields.io/badge/LB%20blog-FF8800?style=for-the-badge&logo=Microdotblog&logoColor=white" height="35" alt="medium logo" />
   </a>
-
   <a href="https://app.lightningbounties.com" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="35" alt="website logo" />
   </a>
-</div>
+  <a href="mailto:founders@lightningbounties.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo" />
+  </a>
+      </div>
     </details>
 
   <details> <summary>Socials</summary>
         <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; border: 2px solid #4285f4; padding: 20px; border-radius: 10px;">
-### Welcome to The Lightning Bounties Social Accounts!
+<h1> Welcome to The Lightning Bounties Social Accounts! </h1>
+<div align="center">
+  <h2> Connect with us and stay up-to-date. Engage through direct communication, code exploration, or social media on our various platforms:  </h2>
+</div>
 
-Connect with us and stay up-to-date. Engage through direct communication, code exploration, or social media on our various platforms.
-
-
-
-<table><thead><tr><th width="200" align="center">Social Account</th><th align="center">Purpose</th></tr></thead><tbody><tr><td align="center"> <img src="../.gitbook/assets/website-#ABAB54FF.svg" alt="" data-size="line"> <a href="https://www.lightningbounties.com/">Website </a></td><td align="center">Visit our website to learn more about Lightning Bounties, view our blog, sign up for our waitlist, and track our progress. </td></tr><tr><td align="center"><img src="../.gitbook/assets/beta-#ABAB54FF.svg" alt="" data-size="line"><a href="https://app.lightningbounties.com/">Bounty Platform</a></td><td align="center">Interested in earning some Bitcoin? Go to our Bug Bounty Platform and Start Solving Bounties. New bounties are posted daily.</td></tr><tr><td align="center"><img src="../.gitbook/assets/github-#ABAB54FF.svg" alt="" data-size="line"><a href="https://github.com/MIT-Bitcoin-2024"> GitHub</a></td><td align="center">Explore our GitHub repo to access our platform's source code, contribute improvements, and review reported issues.</td></tr><tr><td align="center"><img src="../.gitbook/assets/twitter-#ABAB54FF.svg" alt="" data-size="line"> <a href="https://x.com/LBounties">Twitter </a></td><td align="center">Follow us on Twitter to stay updated with real-time program announcements, news, and important information.</td></tr><tr><td align="center"><img src="../.gitbook/assets/telegram-#ABAB54FF.svg" alt="" data-size="line">  <a href="https://t.me/+vEnFunP_mfRjOTJh">Telegram </a></td><td align="center">Join our Telegram group to connect with us directly.</td></tr><tr><td align="center"><img src="../.gitbook/assets/youtube-#ABAB54FF.svg" alt="" data-size="line"> <a href="https://youtube.com/@lightningbounties?si=AGCT8Zqazy1IUDaX">YouTube</a></td><td align="center">Subscribe to our YouTube channel to access educational videos, and learn through our in-depth tutorials. </td></tr><tr><td align="center"> <img src="../.gitbook/assets/email-#ABAB54FF.svg" alt="" data-size="line"> <a href="mailto:founders@lightningbounties.com">Email</a></td><td align="center">For inquiries, feedback, or collaboration opportunities, please email us. Our team will gladly assist you.</td></tr></tbody></table>
+<table><thead><tr><th width="200" align="center">Social Account</th><th align="center">Purpose</th></tr></thead><tbody><tr><td align="center"> <img src="../.gitbook/assets/website-#ABAB54FF.svg" alt="" data-size="line"> <a href="https://www.lightningbounties.com/">Website </a></td><td align="center">Visit our website to learn more about Lightning Bounties, view our blog, and track our progress. </td></tr><tr><td align="center"><img src="../.gitbook/assets/beta-#ABAB54FF.svg" alt="" data-size="line"><a href="https://app.lightningbounties.com/">Bounty Platform</a></td><td align="center">Interested in earning some Bitcoin? Go to our Bug Bounty Platform and Start Solving Bounties. New bounties are posted daily.</td></tr><tr><td align="center"><img src="../.gitbook/assets/github-#ABAB54FF.svg" alt="" data-size="line"><a href="https://github.com/MIT-Bitcoin-2024"> GitHub</a></td><td align="center">Explore our GitHub repo to access our platform's source code, contribute improvements, and review reported issues.</td></tr><tr><td align="center"><img src="../.gitbook/assets/twitter-#ABAB54FF.svg" alt="" data-size="line"> <a href="https://x.com/LBounties">Twitter </a></td><td align="center">Follow us on Twitter to stay updated with real-time program announcements, news, and important information.</td></tr><tr><td align="center"><img src="../.gitbook/assets/telegram-#ABAB54FF.svg" alt="" data-size="line">  <a href="https://t.me/+vEnFunP_mfRjOTJh">Telegram </a></td><td align="center">Join our Telegram group to connect with us directly.</td></tr><tr><td align="center"><img src="../.gitbook/assets/youtube-#ABAB54FF.svg" alt="" data-size="line"> <a href="https://youtube.com/@lightningbounties?si=AGCT8Zqazy1IUDaX">YouTube</a></td><td align="center">Subscribe to our YouTube channel to access educational videos, and learn through our in-depth tutorials. </td></tr><tr><td align="center"> <img src="../.gitbook/assets/email-#ABAB54FF.svg" alt="" data-size="line"> <a href="mailto:founders@lightningbounties.com">Email</a></td><td align="center">For inquiries, feedback, or collaboration opportunities, please email us. Our team will gladly assist you.</td></tr></tbody></table>
 </div>
     </details>
 
 
   <p>
-    <a href="https://docs.lightningbounties.com"><strong>Explore the docs »</strong></a>
+    <a href="https://docs.lightningbounties.com"><strong>Explore the docs » </strong></a>
+  </>  ⚡
+    <a href="https://blog.lightningbounties.com/"><strong>Read Our Blog » </strong></a>
   </p>
-  <p>
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+  <p> 
+    <a href="https://docs.lightningbounties.com/docs/getting-started/getting-started">View Demo</a> »
+    <a href="https://app.lightningbounties.com"> Open Bounties</a> »
+    <a href="https://github.com/Lightning-Bounties/lb-next/issues">Report Bug</a> »
+    <a href="https://github.com/orgs/Lightning-Bounties/projects/2/views/1">Roadmap</a>
   </p>
 </div>
 
@@ -285,8 +300,13 @@ Below is an example of how you can instruct your audience on installing and sett
 <img src="https://github.com/BrantaOps/Assets/blob/main/Logos/favicon.png" height="30" width="36" alt="Branta Badge">
 <img width="12" />
 
-Fix branta logo  
 
+░██╗░░░░░░░██╗███████╗██╗░░░░░░█████╗░░█████╗░███╗░░░███╗███████╗
+░██║░░██╗░░██║██╔════╝██║░░░░░██╔══██╗██╔══██╗████╗░████║██╔════╝
+░╚██╗████╗██╔╝█████╗░░██║░░░░░██║░░╚═╝██║░░██║██╔████╔██║█████╗░░
+░░████╔═████║░██╔══╝░░██║░░░░░██║░░██╗██║░░██║██║╚██╔╝██║██╔══╝░░
+░░╚██╔╝░╚██╔╝░███████╗███████╗╚█████╔╝╚█████╔╝██║░╚═╝░██║███████╗
+░░░╚═╝░░░╚═╝░░╚══════╝╚══════╝░╚════╝░░╚════╝░╚═╝░░░░░╚═╝╚══════╝
 
 
 # Socials 
