@@ -153,9 +153,6 @@
     <a href="https://docs.lightningbounties.com/docs/getting-started/getting-started">View Demo</a> »
     <a href="https://app.lightningbounties.com"> Open Bounties</a> »
     <a href="https://github.com/Lightning-Bounties/lb-next/issues">Report Bug</a> »
-  <p>
-    <a href="https://docs.lightningbounties.com/docs/getting-started/getting-started">View Demo</a> »
-    <a href="https://github.com/Lightning-Bounties/lb-next/issues">Report Bug</a> »
     <a href="https://github.com/orgs/Lightning-Bounties/projects/2/views/1">Roadmap</a>
   </p>
 </div>
