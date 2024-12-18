@@ -2,7 +2,6 @@
 
 ![github_banner_simple](https://github.com/user-attachments/assets/8cb02964-89ca-48ee-a8b6-2a7a843ed453)
 
-
 <details> <summary>Project Checklist</summary>
   
 - [x] Banner Image or Logo
@@ -30,7 +29,9 @@
 
 <br />
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; border: 2px solid #4285f4; padding: 20px; border-radius: 10px;">
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&letterSpacing=small&duration=1999&pause=1000&color=A96CFF&center=true&vCenter=true&repeat=true&width=1000&height=75&lines=Welcome+to+Lightning+Bounties!" alt="Typing SVG" /></a>
+  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; border: 2px solid #4285f4; padding: 20px; border-radius: 10px;">
 
   <a href="mailto:founders@lightningbounties.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo" />
@@ -54,8 +55,6 @@
   </a>
 </div>
 
-<div align="center">
-  <h1>Welcome to</h1>
   <a href="https://github.com/Lightning-Bounties">
     <img src="lb_bw_initals_typography_vaporwave.png" alt="Logo" width="400" height="350">
   </a>
