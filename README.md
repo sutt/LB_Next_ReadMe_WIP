@@ -1,33 +1,5 @@
 <a id="readme-top"></a>
 
-![github_banner_simple](https://github.com/user-attachments/assets/8cb02964-89ca-48ee-a8b6-2a7a843ed453)
-
-<details> <summary>Project Checklist</summary>
-  
-- [x] Banner Image or Logo
-- [x] 1 Paragraph Charter on what we are all about 
-- [x] Links or Badges to Socials: Twitter, Documentation, Website, Blog, YouTube?
-- [ ] Table of contents toggle
-- [ ] Getting Started/contributing guide 
-- [ ] hyperlink to scroll on table of contents
-- [ ] back to the top markers/badge  
-- [ ] Tech Stack, Python, Next.js, Typescript, JWT, 
-- [x] Built With: Branta, Gitbook,
-- [ ] Formatting / Order
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-### MISQ Pages 
-- [ ] Roadmap in mermaid
-- [ ] Engineering Diagrahm workflow?
-- [ ] Buy me a coffee?
-- [ ] Pull request template?
-- [ ] 
-</details>
-
-<br />
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&letterSpacing=small&duration=1999&pause=1000&color=A96CFF&center=true&vCenter=true&repeat=true&width=1000&height=75&lines=Welcome+to+Lightning+Bounties!" alt="Typing SVG" /></a>
@@ -41,14 +13,6 @@
   </a> 
   <a href="https://docs.lightningbounties.com" target="_blank">
     <img src="https://img.shields.io/badge/Documentation-BBDDE5?logo=gitbook&logoColor=000&style=for-the-badge" height="35" alt="GitBook Badge">
-  </a>
-   <a href="https://www.youtube.com/@LightningBounties" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge" height="35" alt="YouTube Badge">
-  </a>
-  
-  <a href="https://blog.lightningbounties.com" target="_blank">
-    <img src="https://img.shields.io/badge/LB%20blog-FF8800?style=for-the-badge&logo=Microdotblog&logoColor=white" height="35" alt="medium logo" />
-  </a>
 
   <a href="https://app.lightningbounties.com" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="35" alt="website logo" />
@@ -124,9 +88,6 @@
   </a>
   <a href="https://app.lightningbounties.com" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="35" alt="website logo" />
-  </a>
-  <a href="mailto:founders@lightningbounties.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo" />
   </a>
       </div>
     </details>
@@ -248,7 +209,6 @@ Below is an example of how you can instruct your audience on installing and sett
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="35" alt="website logo" />
   </a>
 </div>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Top contributors: 
 
@@ -256,7 +216,6 @@ Below is an example of how you can instruct your audience on installing and sett
   <img src="https://contrib.rocks/image?repo=Lightning-Bounties/lb-next" />
 </a>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <div align="center">
 
@@ -269,55 +228,4 @@ Below is an example of how you can instruct your audience on installing and sett
 | <p align="center" width="240">Branta offers payment verification <br>for various bitcoin and lightning technologies.</p> | <p align="center" width="240">GitBook: Documentation platform<br>for teams to share knowledge</p> | <p align="center" width="240">PlebLab is founder-led and founder-focused, <br>providing resources and mentorship to drive<br>impactful Bitcoin companies since 2021.</p> |
 
 </div>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-# Other Assets Delete Later 
-<img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" alt="Next.js Badge">
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python Badge">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" alt="TypeScript Badge">
-<img src="https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=fff&style=for-the-badge" alt="Bitcoin Badge">
-<img src="https://img.shields.io/badge/Lightning-792EE5?logo=lightning&logoColor=fff&style=for-the-badge" alt="Lightning Badge">
-<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge" alt="FastAPI Badge">
-<img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000?logo=jsonwebtokens&logoColor=fff&style=for-the-badge" alt="JSON Web Tokens Badge">
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" alt="React Badge">
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=for-the-badge" alt="GitHub Actions Badge">
-<img src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge" alt="Node.js Badge">
-
-
-# Built With 
-<img src="https://img.shields.io/badge/GitBook-BBDDE5?logo=gitbook&logoColor=000&style=for-the-badge" alt="GitBook Badge">
-<img src="https://img.shields.io/badge/GitBook-BBDDE5?logo=gitbook&logoColor=000&style=plastic" alt="GitBook Badge">
-
-<img src="https://img.shields.io/badge/Make-6D00CC?logo=make&logoColor=fff&style=for-the-badge" alt="Make Badge">
-<img src="https://img.shields.io/badge/Make-6D00CC?logo=make&logoColor=fff&style=plastic" alt="Make Badge">
-
-<img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge" alt="OpenAI Badge">
-<img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=plastic" alt="OpenAI Badge">
-
-<img width="6"/>
-<img src="https://github.com/BrantaOps/Assets/blob/main/Logos/favicon.png" height="30" width="36" alt="Branta Badge">
-<img width="12" />
-
-
-░██╗░░░░░░░██╗███████╗██╗░░░░░░█████╗░░█████╗░███╗░░░███╗███████╗
-░██║░░██╗░░██║██╔════╝██║░░░░░██╔══██╗██╔══██╗████╗░████║██╔════╝
-░╚██╗████╗██╔╝█████╗░░██║░░░░░██║░░╚═╝██║░░██║██╔████╔██║█████╗░░
-░░████╔═████║░██╔══╝░░██║░░░░░██║░░██╗██║░░██║██║╚██╔╝██║██╔══╝░░
-░░╚██╔╝░╚██╔╝░███████╗███████╗╚█████╔╝╚█████╔╝██║░╚═╝░██║███████╗
-░░░╚═╝░░░╚═╝░░╚══════╝╚══════╝░╚════╝░░╚════╝░╚═╝░░░░░╚═╝╚══════╝
-
-
-# Socials 
-<img src="https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge" alt="X Badge">
-<img src="https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=plastic" alt="X Badge">
-
-<img src="https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge" alt="YouTube Badge">
-<img src="https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=plastic" alt="YouTube Badge">
-
-  <a href="https://www.linkedin.com/in/michael-abramo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Gmail Badge">
-<img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=plastic" alt="Gmail Badge">
